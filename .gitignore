@@ -1,0 +1,11 @@
+.env
+/uploads
+__pycache__/
+*.py[cod]
+*$py.class
+.vscode/
+venv/
+env/
+*.log
+chroma_db/
+.cache/

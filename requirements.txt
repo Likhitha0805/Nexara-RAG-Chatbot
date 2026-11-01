@@ -1,0 +1,27 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-groq
+langchain-huggingface
+langchain-community
+langgraph
+chromadb
+sentence-transformers
+pypdf
+python-docx
+openpyxl
+python-pptx
+pandas
+unstructured
+python-magic; sys_platform != 'win32'
+python-magic-bin; sys_platform == 'win32'
+openai-whisper
+moviepy
+opencv-python
+pillow
+torch
+torchvision
+torchaudio
+beautifulsoup4
+python-dotenv
